@@ -10,7 +10,7 @@ This repository contains a simple yet effective feedback form built using HTML a
 
 1. Clone the Repository:
   
-   git clone https://github.com/yourusername/feedback-form-web3forms.git
+   git clone https://github.com/ramajan-tahashildar/feedback-form-web3forms.git
    
 2. Set Up Web3Forms:
    - Sign up for Web3Forms and get your unique form ID.
