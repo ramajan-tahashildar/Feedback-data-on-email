@@ -6,6 +6,11 @@ This repository contains a simple yet effective feedback form built using HTML a
 - Email Integration: Leveraging Web3Forms, the feedback submitted by users is directly sent to your email.
 - Easy to Customize: The HTML and CSS code is well-structured and commented, making it easy to adapt the form to your needs.
 
+## File Structure
+- `assets/` - Directory containing images files.
+- `index.html` - Main HTML file for the website.
+- `style.css` - Contains CSS files for styling.
+
 ## How to Use
 
 1. Clone the Repository:
